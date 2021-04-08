@@ -11,4 +11,4 @@ This clinic will introduce both GCAM and Demeter at a high-level. We will also p
 # Presented at:
 | Event | Date | Presenter(s) | Link | Version |
 | --- | --- | --- | --- | --- |
-| CSDMS 2021 Annual Meeting | 2021-05-20 | https://csdms.colorado.edu/wiki/Form:Annualmeeting2021#Introduction | TBD |
+| CSDMS 2021 Annual Meeting | 2021-05-20 | Pralit Patel and Chris R. Vernon | [Meeting Link](https://csdms.colorado.edu/wiki/Form:Annualmeeting2021#Introduction) | TBD |
