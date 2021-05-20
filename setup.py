@@ -8,5 +8,6 @@ setup(
     license='MIT',
     author='d3y010',
     author_email='chris.vernon@pnnl.gov; pralit.patel@pnnl.gov',
-    description='GCAM and Demeter clinic: A global, integrated human-Earth systems perspective to modeling land projections'
+    description='GCAM and Demeter clinic: A global, integrated human-Earth systems perspective to modeling land projections',
+    include_package_data=True
 )
